@@ -1,0 +1,3 @@
+requests
+pytube
+git+https://github.com/pytube/pytube.git@v10.9.3
